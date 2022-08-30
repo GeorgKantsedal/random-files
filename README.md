@@ -1,6 +1,6 @@
 # random-files
 
-This repo stores test tasks and tasks with interviews that I encountered. Unfortunately, no feedbacks.
+This repo stores test tasks and tasks done on interviews that I encountered. Unfortunately, no feedbacks.
 
 В даной репе хранятся тестовые задания и задания с интервью с которыми я сталкивался. К сожалению без фитбеков.
 
